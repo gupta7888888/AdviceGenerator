@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(24, 2, 44, 0.904);
+}
